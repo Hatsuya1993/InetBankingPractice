@@ -23,7 +23,7 @@ public class ReadConfig {
         String url=pro.getProperty("baseURL");
         return url;
     }
-    public String getUsernameL()
+    public String getUsername()
     {
         String username=pro.getProperty("username");
         return username;
