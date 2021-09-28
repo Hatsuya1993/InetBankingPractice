@@ -16,6 +16,7 @@ import org.testng.annotations.Parameters;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 
 public class BaseClass {
@@ -45,6 +46,7 @@ public class BaseClass {
             System.setProperty("webdriver.ie.driver",readConfig.getIEPath());
             driver = new InternetExplorerDriver();
         }
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get(baseURL);
     }
 
