@@ -122,3 +122,56 @@
 2021-09-29 19:31:23,141 - ebanking -INFO - Username entered
 2021-09-29 19:31:23,203 - ebanking -INFO - Password is entered
 2021-09-29 19:31:24,109 - ebanking -INFO - Test Pass
+2021-09-30 13:50:27,440 - ebanking -INFO - URL is opened
+2021-09-30 13:50:27,580 - ebanking -INFO - Username entered
+2021-09-30 13:50:27,644 - ebanking -INFO - Password is entered
+2021-09-30 13:50:28,642 - ebanking -INFO - Test Pass
+2021-09-30 13:50:57,889 - ebanking -INFO - URL is opened
+2021-09-30 13:50:58,039 - ebanking -INFO - username
+2021-09-30 13:50:58,115 - ebanking -INFO - password
+2021-09-30 13:50:59,141 - ebanking -INFO - submit
+2021-09-30 13:51:02,953 - ebanking -INFO - customer name
+2021-09-30 13:51:03,020 - ebanking -INFO - customer gender
+2021-09-30 13:51:03,179 - ebanking -INFO - customer DOB
+2021-09-30 13:51:08,289 - ebanking -INFO - customer address
+2021-09-30 13:51:08,408 - ebanking -INFO - customer city
+2021-09-30 13:51:08,520 - ebanking -INFO - customer state
+2021-09-30 13:51:08,628 - ebanking -INFO - customer pinno
+2021-09-30 13:51:08,759 - ebanking -INFO - customer phone
+2021-09-30 13:51:08,894 - ebanking -INFO - customer email
+2021-09-30 13:51:09,008 - ebanking -INFO - customer password
+2021-09-30 13:51:10,139 - ebanking -INFO - customer submit 
+2021-09-30 13:51:13,176 - ebanking -INFO - Test passed
+2021-09-30 13:56:19,600 - ebanking -INFO - URL is opened
+2021-09-30 13:56:19,758 - ebanking -INFO - username
+2021-09-30 13:56:19,826 - ebanking -INFO - password
+2021-09-30 13:56:20,888 - ebanking -INFO - submit
+2021-09-30 13:56:24,699 - ebanking -INFO - customer name
+2021-09-30 13:56:24,752 - ebanking -INFO - customer gender
+2021-09-30 13:56:24,915 - ebanking -INFO - customer DOB
+2021-09-30 13:56:30,013 - ebanking -INFO - customer address
+2021-09-30 13:56:30,091 - ebanking -INFO - customer city
+2021-09-30 13:56:30,161 - ebanking -INFO - customer state
+2021-09-30 13:56:30,254 - ebanking -INFO - customer pinno
+2021-09-30 13:56:30,323 - ebanking -INFO - customer phone
+2021-09-30 13:56:30,418 - ebanking -INFO - customer email
+2021-09-30 13:56:30,495 - ebanking -INFO - customer password
+2021-09-30 13:56:31,415 - ebanking -INFO - customer submit 
+2021-09-30 13:56:34,442 - ebanking -INFO - Test passed
+2021-09-30 13:56:40,287 - ebanking -INFO - URL is opened
+2021-09-30 13:56:40,429 - ebanking -INFO - Username entered
+2021-09-30 13:56:40,537 - ebanking -INFO - Password is entered
+2021-09-30 13:56:45,367 - ebanking -INFO - URL is opened
+2021-09-30 13:56:45,455 - ebanking -INFO - Username entered
+2021-09-30 13:56:45,521 - ebanking -INFO - Password is entered
+2021-09-30 13:56:50,380 - ebanking -INFO - URL is opened
+2021-09-30 13:56:50,472 - ebanking -INFO - Username entered
+2021-09-30 13:56:50,538 - ebanking -INFO - Password is entered
+2021-09-30 13:56:56,629 - ebanking -INFO - Test Pass
+2021-09-30 13:56:56,629 - ebanking -INFO - URL is opened
+2021-09-30 13:56:56,730 - ebanking -INFO - Username entered
+2021-09-30 13:56:56,828 - ebanking -INFO - Password is entered
+2021-09-30 13:57:05,750 - ebanking -INFO - URL is opened
+2021-09-30 13:57:05,842 - ebanking -INFO - Username entered
+2021-09-30 13:57:05,924 - ebanking -INFO - Password is entered
+2021-09-30 13:57:06,818 - ebanking -INFO - Test Pass

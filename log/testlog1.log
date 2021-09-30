@@ -122,3 +122,56 @@
 2021-09-29 19:31:23,141 [main] INFO ebanking - Username entered
 2021-09-29 19:31:23,203 [main] INFO ebanking - Password is entered
 2021-09-29 19:31:24,109 [main] INFO ebanking - Test Pass
+2021-09-30 13:50:27,440 [main] INFO ebanking - URL is opened
+2021-09-30 13:50:27,580 [main] INFO ebanking - Username entered
+2021-09-30 13:50:27,644 [main] INFO ebanking - Password is entered
+2021-09-30 13:50:28,642 [main] INFO ebanking - Test Pass
+2021-09-30 13:50:57,889 [main] INFO ebanking - URL is opened
+2021-09-30 13:50:58,039 [main] INFO ebanking - username
+2021-09-30 13:50:58,115 [main] INFO ebanking - password
+2021-09-30 13:50:59,141 [main] INFO ebanking - submit
+2021-09-30 13:51:02,953 [main] INFO ebanking - customer name
+2021-09-30 13:51:03,020 [main] INFO ebanking - customer gender
+2021-09-30 13:51:03,179 [main] INFO ebanking - customer DOB
+2021-09-30 13:51:08,289 [main] INFO ebanking - customer address
+2021-09-30 13:51:08,408 [main] INFO ebanking - customer city
+2021-09-30 13:51:08,520 [main] INFO ebanking - customer state
+2021-09-30 13:51:08,628 [main] INFO ebanking - customer pinno
+2021-09-30 13:51:08,759 [main] INFO ebanking - customer phone
+2021-09-30 13:51:08,894 [main] INFO ebanking - customer email
+2021-09-30 13:51:09,008 [main] INFO ebanking - customer password
+2021-09-30 13:51:10,139 [main] INFO ebanking - customer submit 
+2021-09-30 13:51:13,176 [main] INFO ebanking - Test passed
+2021-09-30 13:56:19,600 [main] INFO ebanking - URL is opened
+2021-09-30 13:56:19,758 [main] INFO ebanking - username
+2021-09-30 13:56:19,826 [main] INFO ebanking - password
+2021-09-30 13:56:20,888 [main] INFO ebanking - submit
+2021-09-30 13:56:24,699 [main] INFO ebanking - customer name
+2021-09-30 13:56:24,752 [main] INFO ebanking - customer gender
+2021-09-30 13:56:24,915 [main] INFO ebanking - customer DOB
+2021-09-30 13:56:30,013 [main] INFO ebanking - customer address
+2021-09-30 13:56:30,091 [main] INFO ebanking - customer city
+2021-09-30 13:56:30,161 [main] INFO ebanking - customer state
+2021-09-30 13:56:30,254 [main] INFO ebanking - customer pinno
+2021-09-30 13:56:30,323 [main] INFO ebanking - customer phone
+2021-09-30 13:56:30,418 [main] INFO ebanking - customer email
+2021-09-30 13:56:30,495 [main] INFO ebanking - customer password
+2021-09-30 13:56:31,415 [main] INFO ebanking - customer submit 
+2021-09-30 13:56:34,442 [main] INFO ebanking - Test passed
+2021-09-30 13:56:40,287 [main] INFO ebanking - URL is opened
+2021-09-30 13:56:40,429 [main] INFO ebanking - Username entered
+2021-09-30 13:56:40,537 [main] INFO ebanking - Password is entered
+2021-09-30 13:56:45,367 [main] INFO ebanking - URL is opened
+2021-09-30 13:56:45,455 [main] INFO ebanking - Username entered
+2021-09-30 13:56:45,521 [main] INFO ebanking - Password is entered
+2021-09-30 13:56:50,380 [main] INFO ebanking - URL is opened
+2021-09-30 13:56:50,472 [main] INFO ebanking - Username entered
+2021-09-30 13:56:50,538 [main] INFO ebanking - Password is entered
+2021-09-30 13:56:56,629 [main] INFO ebanking - Test Pass
+2021-09-30 13:56:56,629 [main] INFO ebanking - URL is opened
+2021-09-30 13:56:56,730 [main] INFO ebanking - Username entered
+2021-09-30 13:56:56,828 [main] INFO ebanking - Password is entered
+2021-09-30 13:57:05,750 [main] INFO ebanking - URL is opened
+2021-09-30 13:57:05,842 [main] INFO ebanking - Username entered
+2021-09-30 13:57:05,924 [main] INFO ebanking - Password is entered
+2021-09-30 13:57:06,818 [main] INFO ebanking - Test Pass
