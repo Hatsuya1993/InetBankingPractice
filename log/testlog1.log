@@ -175,3 +175,22 @@
 2021-09-30 13:57:05,842 [main] INFO ebanking - Username entered
 2021-09-30 13:57:05,924 [main] INFO ebanking - Password is entered
 2021-09-30 13:57:06,818 [main] INFO ebanking - Test Pass
+2021-10-02 13:28:05,048 [main] INFO ebanking - URL is opened
+2021-10-02 13:28:05,217 [main] INFO ebanking - username
+2021-10-02 13:28:05,301 [main] INFO ebanking - password
+2021-10-02 13:28:06,760 [main] INFO ebanking - submit
+2021-10-02 13:28:10,572 [main] INFO ebanking - customer name
+2021-10-02 13:28:10,644 [main] INFO ebanking - customer gender
+2021-10-02 13:28:10,791 [main] INFO ebanking - customer DOB
+2021-10-02 13:28:15,876 [main] INFO ebanking - customer address
+2021-10-02 13:28:15,960 [main] INFO ebanking - customer city
+2021-10-02 13:28:16,043 [main] INFO ebanking - customer state
+2021-10-02 13:28:16,120 [main] INFO ebanking - customer pinno
+2021-10-02 13:28:16,209 [main] INFO ebanking - customer phone
+2021-10-02 13:28:16,298 [main] INFO ebanking - customer email
+2021-10-02 13:28:16,368 [main] INFO ebanking - customer password
+2021-10-02 13:28:16,805 [main] INFO ebanking - customer submit 
+2021-10-02 13:28:23,963 [main] INFO ebanking - URL is opened
+2021-10-02 13:28:24,043 [main] INFO ebanking - Username entered
+2021-10-02 13:28:24,092 [main] INFO ebanking - Password is entered
+2021-10-02 13:28:25,088 [main] INFO ebanking - Test Pass

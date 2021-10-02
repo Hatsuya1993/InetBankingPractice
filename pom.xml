@@ -7,14 +7,35 @@
 	<artifactId>inetBankingV1</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
+<!-- Plugins required for executing tests -->
 	<build>
 		<plugins>
+<!--			<plugin>-->
+<!--				<groupId>org.apache.maven.plugins</groupId>-->
+<!--				<artifactId>maven-compiler-plugin</artifactId>-->
+<!--				<configuration>-->
+<!--					<source>11</source>-->
+<!--					<target>11</target>-->
+<!--				</configuration>-->
+<!--			</plugin>-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
 				<configuration>
-					<source>11</source>
-					<target>11</target>
+					<!-- put your configurations here -->
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>3.0.0-M5</version>
+				<configuration>
+					<suiteXmlFiles>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -36,6 +57,8 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+
+<!--	Dependencies required for project -->
 
 	<dependencies>
 		<!--  JUNIT DEPENDENCY FOR TESTING -->
